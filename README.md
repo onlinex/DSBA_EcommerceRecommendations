@@ -11,3 +11,12 @@ Installation guide:
 - conda install -c conda-forge tensorflow
 - conda install -c conda-forge tf_slim
 - pip install papermill
+
+
+# Steps
+
+- clean
+- recsys
+    - als
+    - ncf
+    - rbm

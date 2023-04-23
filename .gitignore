@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 data/
 else/
+**/checkpoints/
+recsys/checkpoints/
 
 *.zip
 
